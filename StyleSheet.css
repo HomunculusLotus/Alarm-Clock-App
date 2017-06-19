@@ -2,16 +2,35 @@
 {
     background-color:black;
 }
-.navbar
-{
 
-}
-.buttons
+#Black-btn
 {
-    display:inline-flex;
-    justify-content:flex-end;
+    color: white;
+    background-color:black;
+    font-weight:bold;
 }
-#Orange
+#Blue-btn
 {
-    color:orange;
+    color:white;
+    background-color:blue;
+    font-weight:bold;
 }
+#Green-btn
+{
+    color:white;
+    background-color:green;
+    font-weight:bold;
+}
+#Orange-btn
+{
+    color:black;
+    background-color:orange;
+    font-weight:bold;
+}
+#Silver-btn
+{
+    color:black;
+    background-color:silver;
+    font-weight:bold;
+}
+
