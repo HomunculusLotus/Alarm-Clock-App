@@ -1,4 +1,17 @@
 ﻿body 
 {
-    background-image:url()
+    background-color:black;
+}
+.navbar
+{
+
+}
+.buttons
+{
+    display:inline-flex;
+    justify-content:flex-end;
+}
+#Orange
+{
+    color:orange;
 }
