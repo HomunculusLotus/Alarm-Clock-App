@@ -1,44 +1,49 @@
-﻿:root
+﻿.body
 {
     background-color:black;
 }
 
+.navbar-btn
+{
+ 
+font-weight:bold;
+}
+
+.color-btns
+{
+    font-weight:bold;
+    margin-right:5px;
+}
 #Black-btn
 {
     color: white;
     background-color:black;
-    font-weight:bold;
 }
 #Blue-btn
 {
     color:white;
     background-color:blue;
-    font-weight:bold;
 }
 #Green-btn
 {
     color:white;
     background-color:green;
-    font-weight:bold;
 }
 #Orange-btn
 {
     color:black;
     background-color:orange;
-    font-weight:bold;
 }
 #Silver-btn
 {
     color:black;
     background-color:silver;
-    font-weight:bold;
 }
 
-<!--This doesn't work, orz.-->
-.navbar 
+#AlarmTime
 {
-   background-color: transparent;
-   background: transparent;
-   border-color: transparent;
+    display:flex;
+    justify-content:center;
+    /* color:white; 
+    */
 }
-
