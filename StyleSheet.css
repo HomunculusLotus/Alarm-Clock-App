@@ -1,6 +1,6 @@
-﻿.body
+﻿body
 {
-    background-color:black;
+    background-color:black !important;
 }
 
 .navbar-btn
@@ -44,6 +44,6 @@ font-weight:bold;
 {
     display:flex;
     justify-content:center;
-    /* color:white; 
-    */
+    color:white; 
+    
 }
